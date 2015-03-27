@@ -1,7 +1,7 @@
 # This-Nonsense-Place
 Genre - Chiptune
 
-[Youtube Link](https://www.youtube.com/watch?v=BU7J46Rjt0w&index=27&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU)
+[Youtube Link](https://www.youtube.com/watch?v=NJnYss6EHqo&index=27&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU)
 
 Current Song Version: 1.0
 
