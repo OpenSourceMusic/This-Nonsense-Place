@@ -8,3 +8,5 @@ Current Song Version: 1.0
 License: [CC-BY](http://creativecommons.org/licenses/by/4.0/) (Creative Commons Attribution 4.0 International)
 
 About me: [PennPierson.com](http://pennpierson.com/)
+
+This song was inspired by "99 Red Balloons"
